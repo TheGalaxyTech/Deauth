@@ -4,7 +4,7 @@ sleep 5
 clear
 
 airmon-ng
-echo -n "Enter the wireless card to use for the attack"
+echo -n "Enter the wireless card to use for the attack: "
 read wcard
 
 sleep 5
